@@ -1,1 +1,73 @@
-# webdev-tools
+## 🛠️ RUSTCODE Tools Collection
+
+### 🎨 Color Tools
+- [Advanced Color Inverter](https://www.rustcodeweb.com/p/advanced-color-inverter.html)
+- [Color Blender Tool](https://www.rustcodeweb.com/p/color-blender-tool-rustcode.html)
+- [Color Saturation Tool](https://www.rustcodeweb.com/p/color-saturation-tool.html)
+- [Tetrad Color Scheme Generator](https://www.rustcodeweb.com/p/tetrad-color-scheme-generator.html)
+- [Modern Color Palette Tool](https://www.rustcodeweb.com/p/modern-color-palette-tool.html)
+- [Image Color Extractor](https://www.rustcodeweb.com/p/image-color-extractor.html)
+- [Color Fade Generator](https://www.rustcodeweb.com/p/color-fade-generator.html)
+- [Popular Color Palettes](https://www.rustcodeweb.com/p/popular-color-palettes.html)
+- [Find Color](https://www.rustcodeweb.com/p/find-color.html)
+- [Color Extractor](https://www.rustcodeweb.com/p/color-extractor.html)
+- [Linear Gradient Color](https://www.rustcodeweb.com/p/linear-gradient-color.html)
+- [Random Linear Gradient Color Generator](https://www.rustcodeweb.com/p/random-linear-gredient-color-generator.html)
+- [Random Multicolor Gradient Generator](https://www.rustcodeweb.com/p/random-multicolor-gradient-generator.html)
+- [Infinite Random Gradients](https://www.rustcodeweb.com/p/infinite-random-gradients.html)
+- [Web Colors](https://www.rustcodeweb.com/p/web-colors.html)
+- [Random RGB Color Generator](https://www.rustcodeweb.com/p/random-rgb-color-generator.html)
+- [Gradient Colors](https://www.rustcodeweb.com/p/gradient-colors.html)
+
+### 📝 Text & Code Editors
+- [Add Line Numbering](https://www.rustcodeweb.com/p/add-line-numbering.html)
+- [Code Comment Remover](https://www.rustcodeweb.com/p/code-comment-remover.html)
+- [Add Prefix and Suffix to Each Line](https://www.rustcodeweb.com/p/add-prefix-and-suffix-to-each-line.html)
+- [Remove Duplicate Lines](https://www.rustcodeweb.com/p/remove-duplicate-lines.html)
+- [Text String Case Converter](https://www.rustcodeweb.com/p/text-string-case-converter.html)
+- [Replace Special Characters with Space](https://www.rustcodeweb.com/p/replace-special-characters-with-space.html)
+- [Replace Special Character With Hyphen](https://www.rustcodeweb.com/p/replace-special-character-with-hyphen.html)
+- [Text Editor And Html Code Generator](https://www.rustcodeweb.com/p/text-editor-and-html-code-generator.html)
+- [Word Counter](https://www.rustcodeweb.com/p/word-counter.html)
+- [Lipsum Text Generator](https://www.rustcodeweb.com/p/lipsum-text-generator.html)
+- [Generate Random Paragraph](https://www.rustcodeweb.com/p/generate-random-paragraph.html)
+
+### 🔧 HTML/CSS/JS Tools
+- [HTML Anchor Tag](https://www.rustcodeweb.com/p/html-anchor-tag.html)
+- [HTML Beautifier](https://www.rustcodeweb.com/p/html-beautifier.html)
+- [HTML Table Customizer](https://www.rustcodeweb.com/p/html-table-customizer.html)
+- [HTML Code Editor](https://www.rustcodeweb.com/p/html-code-editor.html)
+- [HTML Cleaner Tool](https://www.rustcodeweb.com/p/html-cleaner-tool.html)
+- [Convert Plain Text to HTML](https://www.rustcodeweb.com/p/convert-plain-text-to-html.html)
+- [CSS Beautifier](https://www.rustcodeweb.com/p/css-beautifier.html)
+- [CSS Minifier](https://www.rustcodeweb.com/p/css-minifier.html)
+- [Remove Duplicate CSS Properties](https://www.rustcodeweb.com/p/remove-duplicate-css-properties.html)
+- [Popular CSS Box Shadow](https://www.rustcodeweb.com/p/popular-box-shadow.html)
+- [JavaScript Beautifier](https://www.rustcodeweb.com/p/javascript-beautifier.html)
+- [JavaScript Minifier](https://www.rustcodeweb.com/p/javascript-minifier.html)
+- [HTML CSS And Javascript Code Editor](https://www.rustcodeweb.com/p/html-css-and-javascript-code-editor.html)
+- [Encode HTML Tags](https://www.rustcodeweb.com/p/encode-html-tags.html)
+
+### 🔄 Converters & Generators
+- [Binary/Decimal Converter](https://www.rustcodeweb.com/p/binarydecimal-converter.html)
+- [Number Base Converter](https://www.rustcodeweb.com/p/number-base-converter.html)
+- [JSON Beautifier](https://www.rustcodeweb.com/p/json-beautifier.html)
+- [XML Beautifier](https://www.rustcodeweb.com/p/xml-beautifier.html)
+- [Password Generator](https://www.rustcodeweb.com/p/password-generator.html)
+- [QR Code Generator](https://www.rustcodeweb.com/p/qr-code-generator.html)
+- [Blogger Sitemap Generator](https://www.rustcodeweb.com/p/blogger-sitemap-generator.html)
+
+### 🖌️ Design Tools
+- [Modern Blob Editor](https://www.rustcodeweb.com/p/modern-blob-editor.html)
+- [Grid Layout Customizer](https://www.rustcodeweb.com/p/grid-layout-customizer.html)
+- [Button Customizer](https://www.rustcodeweb.com/p/button-customizer.html)
+- [Whiteboard](https://www.rustcodeweb.com/p/whiteboard.html)
+
+### ⚙️ Utilities
+- [Blogger Image Link Modifier](https://www.rustcodeweb.com/p/blogger-image-link-modifier.html)
+- [Regular Expression Tester](https://www.rustcodeweb.com/p/regular-expression-tester.html)
+- [Extract Links from URL](https://www.rustcodeweb.com/p/extract-links-from-url.html)
+- [Add Commas Between Items](https://www.rustcodeweb.com/p/add-commas-between-items.html)
+- [Quiz Interface](https://www.rustcodeweb.com/p/quiz-interface.html)
+- [Remove Duplicate Hashtags](https://www.rustcodeweb.com/p/remove-duplicate-hashtags.html)
+- [Calculator](https://www.rustcodeweb.com/p/calculator.html)
